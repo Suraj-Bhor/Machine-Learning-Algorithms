@@ -1,2 +1,2 @@
 # Machine-Learning-Algorithms
-All machine learning algorithms created from scratch as well as using tools/frameworks.
+All machine learning algorithms implemented from scratch as well as using tools/frameworks.
